@@ -134,7 +134,9 @@ Automated-Sign-Language-Rendering-System/
 ## Authors
 
 - Janhavi Kolamkar
+  
 Department of Electronics and Telecommunication Engineering
+
 Pune Institute of Computer Technology (PICT), Pune
 
 ---
