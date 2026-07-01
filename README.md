@@ -133,7 +133,7 @@ Automated-Sign-Language-Rendering-System/
 
 ## Authors
 
-- Janhavi Kolamkar
+Janhavi Kolamkar
   
 Department of Electronics and Telecommunication Engineering
 
