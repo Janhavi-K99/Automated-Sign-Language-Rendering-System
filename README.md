@@ -142,6 +142,3 @@ Pune Institute of Computer Technology (PICT), Pune
 ---
 
 
-## License
-
-This project is developed for academic and educational purposes.
